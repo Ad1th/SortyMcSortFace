@@ -1,0 +1,33 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, generated with "go test -c"
+*.test
+
+# Coverage and profiling
+*.out
+coverage.out
+cpu.out
+mem.out
+
+# Go workspace/cache files
+go.work
+go.work.sum
+
+# Build output directories
+bin/
+dist/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Optional local data folder used by this project
+sort/
