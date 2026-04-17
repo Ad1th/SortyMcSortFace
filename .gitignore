@@ -31,3 +31,6 @@ dist/
 
 # Optional local data folder used by this project
 sort/
+
+#I'm removing the file created by go build, cuz that ain't necessary...
+SortyMcSortFace
